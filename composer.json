@@ -26,6 +26,5 @@
         "psr-0": { "RedKiteCms\\Block\\RedKiteCmsBaseBlocksBundle": ""
         }
     },
-    "target-dir" : "RedKiteCms/Block/RedKiteCmsBaseBlocksBundle",
-    "minimum-stability": "dev"
+    "target-dir" : "RedKiteCms/Block/RedKiteCmsBaseBlocksBundle"
 }
