@@ -1,3 +1,6 @@
+RedKite CMS Base Blocks 1.1.0 (2014/01/18)
+----
+
 RedKite CMS Base Blocks 1.1.Release Cansidate 2 (2013/12/18)
 62ad3fb fixed a bug with ScriptBlock which was not correctly saved when the script contained the "&" char
 9d305c1 added scrutinizer configuration
